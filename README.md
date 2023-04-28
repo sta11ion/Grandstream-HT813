@@ -171,4 +171,4 @@ Here are the ressources which helped me to compile those settings.
 - Caller ID in SIP and Asterisk: https://kb.smartvox.co.uk/asterisk/how-it-works/caller-id-in-sip-and-asterisk-part-1/
 - Configure Grandstream HT813 with FreePBX: https://jplucero.com/configure-grandstream-ht813-with-freepbx/
 - HT503 FXO / FXS gateway, deploying Polycom VVX phones & finally, setting up Zulu on mobile devices for access to the PBX while we are out of WiFi range.: https://blog.xga.ie/home-pbx-part-2/
-
+- Zulu license for 2 free user: https://wiki.freepbx.org/display/FPG/Installing+Purchased+Commercial+Modules
